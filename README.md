@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on completing my Machine Learning Analyst diploma program at Norquest College. I'm also working on data analysis and automation projects
+- 🌱 I’m currently learning and continuously expanding my knowledge in machine learning, data science and engineering, and software development.
+- 👯 I’m looking to collaborate on exciting AI and ML projects. I'm enthusiastic about collaborating with individuals who share a passion for these areas.
+- 🤔 I’m looking for help with strategies to ensure fairness and reduce bias in AI and ML models, especially in the context of predictive algorithms. I'm keen to explore how to improve equity in AI design.
+- 💬 Ask me about Machine learning and data analysis, AI ethics. Feel free to inquire about any AI or ML-related topics or projects I've been involved in.
+- 📫 How to reach me: I'm  active on LinkedIn - https://www.linkedin.com/in/kemi-akinduyile/, and you can connect with me there.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm an avid puzzle solver and love strategy-based games. I find that the problem-solving skills required in these games often correlate with the analytical thinking needed in machine learning and data analysis.
 <!--
 **FadekemiAkinduyile/FadekemiAkinduyile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
