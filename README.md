@@ -8,24 +8,31 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm an avid puzzle solver and love strategy-based games. I find that the problem-solving skills required in these games often correlate with the analytical thinking needed in machine learning and data analysis.
 
-- Skills:
-Languages:
-Python  Shell Script  LaTeX  Markdown
+### Skills:
+- Languages:
+     Python
+     Shell Script
+     LaTeX
+     Markdown
 
-ML/DL
-Tensorflow  scikit-learn  NumPy  Pandas
+- ML/DL
+     Tensorflow
+     Scikit-learn
+     NumPy
+     Pandas
 
-Database
-MySQL  PostgreSQL 
+- Database
+     MySQL
+     PostgreSQL 
 
-Tools and Technologies
-Linux Git 
+- Tools and Technologies
+     Linux
+     Git 
 
-IDEs
-Jupyter Notebook  PyCharm  Visual Studio Code
-
-Connect with me:
-     
+- IDEs
+     Jupyter Notebook
+     PyCharm
+     Visual Studio Code
 <!--
 **FadekemiAkinduyile/FadekemiAkinduyile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
