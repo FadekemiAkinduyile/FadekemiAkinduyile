@@ -11,28 +11,28 @@
 ### Skills:
 - Languages:     
      Python
-     Shell Script
-     LaTeX
-     Markdown
+|     Shell Script
+|     LaTeX
+|     Markdown
 
 - ML/DL:     
      Tensorflow
-     Scikit-learn
-     NumPy
-     Pandas
+|     Scikit-learn
+|     NumPy
+|     Pandas
 
 - Database:     
      MySQL
-     PostgreSQL 
+|     PostgreSQL 
 
 - Tools and Technologies:     
      Linux
-     Git 
+|     Git 
 
 - IDEs:     
      Jupyter Notebook
-     PyCharm
-     Visual Studio Code
+|     PyCharm
+|     Visual Studio Code
 <!--
 **FadekemiAkinduyile/FadekemiAkinduyile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
