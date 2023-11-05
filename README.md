@@ -1,8 +1,8 @@
-### Hi there 👋
-- 🔭 I’m currently working on completing my Machine Learning Analyst diploma program at Norquest College. I'm also working on data analysis and automation projects
-- 🌱 I’m currently learning and continuously expanding my knowledge in machine learning, data science and engineering, and software development.
-- 👯 I’m looking to collaborate on exciting AI and ML projects. I'm enthusiastic about collaborating with individuals who share a passion for these areas.
-- 🤔 I’m looking for help with strategies to ensure fairness and reduce bias in AI and ML models, especially in the context of predictive algorithms. I'm keen to explore how to improve equity in AI design.
+### Hi there, I'm Kemi Akinduyile 👋
+- 🔭 I’m currently working towards completing my Machine Learning Analyst diploma program at Norquest College. I'm also working on data analysis and Machine Learning projects.
+- 🌱 I’m learning and continuously expanding my knowledge in machine learning and data science.
+- 👯 I’m looking to collaborate on exciting data, AI and ML projects. I'm enthusiastic about collaborating with individuals who share a passion for these areas.
+- 🤔 I aim to adopt strategies that improve equity in AI design, ensure fairness and mitigate bias in AI and ML models.
 - 💬 Ask me about Machine learning and data analysis, AI ethics. Feel free to inquire about any AI or ML-related topics or projects I've been involved in.
 - 📫 How to reach me: I'm  active on LinkedIn - https://www.linkedin.com/in/kemi-akinduyile/, and you can connect with me there.
 - 😄 Pronouns: She/Her
