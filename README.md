@@ -9,27 +9,27 @@
 - ⚡ Fun fact: I'm an avid puzzle solver and love strategy-based games. I find that the problem-solving skills required in these games often correlate with the analytical thinking needed in machine learning and data analysis.
 
 ### Skills:
-- Languages:
+- Languages:     
      Python
      Shell Script
      LaTeX
      Markdown
 
-- ML/DL
+- ML/DL:     
      Tensorflow
      Scikit-learn
      NumPy
      Pandas
 
-- Database
+- Database:     
      MySQL
      PostgreSQL 
 
-- Tools and Technologies
+- Tools and Technologies:     
      Linux
      Git 
 
-- IDEs
+- IDEs:     
      Jupyter Notebook
      PyCharm
      Visual Studio Code
